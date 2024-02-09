@@ -1,2 +1,2 @@
 # java-data-structures
-Implemeting Java Data Structures
+Implementing Java Data Structures
